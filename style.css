@@ -42,7 +42,7 @@ main{
     color: hsl(216, 15%, 48%);
 }
 
-.hidden {
+.visually-hidden {
   position: absolute;
   left: -10000px;
   top: auto;
