@@ -41,3 +41,12 @@ main{
 .text p{
     color: hsl(216, 15%, 48%);
 }
+
+.hidden {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
